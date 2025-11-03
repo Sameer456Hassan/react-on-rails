@@ -61,7 +61,7 @@ gem "shakapacker", "= 9.3"
 
 gem "react-rails", "= 3.2"
 
-gem "rails", "~> 7.1"
+gem "rails", "~> 8.1"
 
 gem "webpacker", "~> 5.4"
 
