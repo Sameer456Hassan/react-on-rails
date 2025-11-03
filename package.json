@@ -2,6 +2,7 @@
   "name": "app",
   "private": true,
   "version": "0.1.0",
+  "packageManager": "yarn@1.22.22",
   "dependencies": {
     "@babel/preset-react": "^7.28.5",
     "@rails/webpacker": "5.4.4",
