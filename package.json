@@ -19,9 +19,9 @@
     "style-loader": "^4.0.0",
     "swc-loader": "^0.2.6",
     "terser-webpack-plugin": "^5.3.14",
-    "webpack": "^4.46.0",
+    "webpack": "^5.88.2",
     "webpack-assets-manifest": "^6.3.0",
-    "webpack-cli": "^3.3.12",
+    "webpack-cli": "^4.15.0",
     "webpack-merge": "^6.0.1",
     "webpack-subresource-integrity": "^5.1.0"
   },
@@ -31,6 +31,6 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/preset-env": "^7.28.5",
     "babel-loader": "8.3.0",
-    "webpack-dev-server": "^3"
+    "webpack-dev-server": "^4.16.0"
   }
 }
